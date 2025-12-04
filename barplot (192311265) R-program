@@ -1,0 +1,2 @@
+@@ -0,0 +1,6 @@a<-c(55,67,89,80,90)barplot(a)a<-c(55,67,89,80,90)barplot(a)barplot(a,horiz=TRUE)̥
+0 commit commentsComments0 (0)Comment
